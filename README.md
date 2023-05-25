@@ -5,8 +5,8 @@
 I'm a proactive, outgoing, and analytical person who embraces experimentation, values diverse perspectives, always willing to work together with my team and create innovative solutions to enhance global quality of life.
 
 ### Current Works
- * Started learning C !!
- * I'm currently working on implementing a program that **compresses files with huffman coding**
+ * Started learning C 🖥!!
+ * I'm currently working ⚙️ on implementing a program that **compresses files with huffman coding**
  * Working up on polishing my skills 🌱 in **Competitive Programming**.
  
 ### Programming Languages
