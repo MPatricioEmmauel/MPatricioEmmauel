@@ -2,7 +2,13 @@
 
 ## Computer Systems and Engineering Student 
 
-> I'm a proactive, outgoing, and analytical person who embraces experimentation, values diverse perspectives, always willing to work together with my team and create innovative solutions to enhance global quality of life.
+I'm a proactive, outgoing, and analytical person who embraces experimentation, values diverse perspectives, always willing to work together with my team and create innovative solutions to enhance global quality of life.
+
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> 
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
 
 Here are some 🦜 party parrots:
 
