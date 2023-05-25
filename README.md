@@ -2,6 +2,8 @@
 
 ## I'm a Computer Systems and Engineering Student 
 
+> I am a proactive, outgoing, and analytical individual who embraces experimentation and seeks new approaches. I value diverse perspectives, big ideas, and taking action. I firmly believe that by fostering collaboration, my team and I can develop innovative solutions and create advanced technologies to improve people's quality of life globally 
+
 Here are some 🦜 party parrots:
 
 <div>
