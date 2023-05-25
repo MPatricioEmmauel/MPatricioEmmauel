@@ -6,7 +6,7 @@ I'm a proactive, outgoing, and analytical person who embraces experimentation, v
 
 ### Current Works
  * Started learning C 🖥!!
- * I'm currently working ⚙️ on implementing a program that **compresses files with huffman coding**
+ * I'm currently working ⚙️ on implementing a program that **compresses files with Huffman coding**
  * Working up on polishing my skills 🌱 in **Competitive Programming**.
  
 ### Programming Languages
