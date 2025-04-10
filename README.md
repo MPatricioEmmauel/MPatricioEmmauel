@@ -1,6 +1,6 @@
 ### Hi there, i'm Emmanuel (Patrick) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-## Computer Systems and Engineering Student 
+## Computer Systems Engineering Student 
 
 I'm a proactive, outgoing, and analytical person who embraces experimentation, values diverse perspectives, always willing to work together with my team and create innovative solutions to enhance global quality of life.
 
