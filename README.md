@@ -1,16 +1,29 @@
 ### Hi there, i'm Emmanuel (Patrick) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-## Computer Systems Engineering Student 
+## Computer Systems Engineering Student | React Developer | AWS Enthusiast 
 
-I'm a proactive, outgoing, and analytical person who embraces experimentation, values diverse perspectives, always willing to work together with my team and create innovative solutions to enhance global quality of life.
+I'm a proactive and analytical developer passionate about creating innovative solutions that enhance user experiences and solve real-world problems. Currently in my final semester of Computer Systems Engineering, with 1+ years of professional experience building scalable web applications.
 
-### Current Works
- * Started learning C 🖥!!
- * I'm currently working ⚙️ on implementing a program that **compresses files with Huffman coding**
- * Working up on polishing my skills 🌱 in **Competitive Programming**.
+🎯 Final semester student with 1+ years of professional React/TypeScript experience  
+💡 Passionate about clean code, performance optimization, and innovative solutions  
+
+### 🚀 Professional Experience
+- **Junior Front End Engineer** at Jimbo (Dec 2023 - Jul 2025)
+- Built 40% of web components using React, TypeScript, and Tailwind CSS
+- Reduced code complexity by 70% through strategic refactoring
+- Improved loading times by 70% with TanStack Query optimization
+
+## 🛠️ Tech Stack
+- **Frontend:** React, TypeScript, Tailwind CSS, TanStack Query
+- **Backend:** Python, AWS (Lambda, CloudWatch, API Gateway)
+- **Other:** Git, MySQL, REST APIs, PayPal/Google Meet integrations
+
+### 🌟 Featured Projects
+- **2D Donkey Kong Recreation** - Python game with OOP design patterns
+- **Corporate Services Network** - PHP/MySQL web application with WordPress CMS
  
 ### Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='30'/> 
 
 Here are some 🦜 party parrots:
 
