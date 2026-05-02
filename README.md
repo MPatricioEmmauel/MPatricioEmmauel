@@ -28,8 +28,10 @@ record of working on scalable platforms, including a strategic transition from c
 - **Corporate Services Network** - PHP/MySQL web application with WordPress CMS.
  
 ### Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='30'/> <img src = 'https://github.com/MPatricioEmmauel/MPatricioEmmauel/blob/main/git-svgrepo-com.svg' width='30'/>
-<img src = 'https://github.com/MPatricioEmmauel/MPatricioEmmauel/blob/main/github-svgrepo-com.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> 
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='30'/> 
+<img src = 'https://github.com/MPatricioEmmauel/MPatricioEmmauel/blob/main/git-svgrepo-com.svg' width='30'/>
+<img src = 'https://github.com/MPatricioEmmauel/MPatricioEmmauel/blob/main/github-color-svgrepo-com.svg' width='30'/>
 <img src = 'https://github.com/MPatricioEmmauel/MPatricioEmmauel/blob/main/linux-svgrepo-com.svg' width='30'/>
 <img src = 'https://github.com/MPatricioEmmauel/MPatricioEmmauel/blob/main/tailwind-svgrepo-com.svg' width='30'/>
 <img src = 'https://github.com/MPatricioEmmauel/MPatricioEmmauel/blob/main/typescript-svgrepo-com.svg' width='30'/>
