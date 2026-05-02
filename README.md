@@ -5,8 +5,8 @@
 I'm a proactive and analytical Computer Systems Engineer with +2 years of experience in React, TypeScript, Python and AWS, passionate about creating innovative solutions that enhance user experiences and solve real-world problems. Proven track
 record of working on scalable platforms, including a strategic transition from chatbot automation to mental health system startup for educational institutes. Effective at leveraging system architecture for project scoping and troubleshooting production issues to deliver high-impact, reliable software.
 
-🎯 Computer Systems Engineer with +2 years of experience in React, TypeScript, Python and AWS 
-💡 Passionate about clean code, performance optimization, and innovative solutions
+🎯 Computer Systems Engineer with +2 years of experience in React, TypeScript, Python and AWS<br>
+💡 Passionate about clean code, performance optimization, and innovative solutions<br>
 🗣️ Spanish (Native), English (Advanced / TOEFL iBT C1)
 
 ### 🚀 Professional Experience
