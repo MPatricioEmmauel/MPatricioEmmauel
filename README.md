@@ -3,29 +3,29 @@
 ## Computer Systems Engineer 
 
 I'm a proactive and analytical Computer Systems Engineer with +2 years of experience in React, TypeScript, Python and AWS, passionate about creating innovative solutions that enhance user experiences and solve real-world problems. Proven track
-record of working on scalable platforms, including a strategic transition from chatbot automation to mental health system startup for educational institutes. Effective at leveraging system architecture for project scoping and troubleshooting production issues to deliver high-impact, reliable software.
+record of working on scalable platforms, including a strategic transition from chatbot automation platforma (Jimbo) to a mental health system startup for educational institutes (Bondi). Effective at leveraging system architecture for project scoping and troubleshooting production issues to deliver high-impact, reliable software.
 
-🎯 Computer Systems Engineer with +2 years of experience in React, TypeScript, Python and AWS<br>
-💡 Passionate about clean code, performance optimization, and innovative solutions<br>
-🗣️ Spanish (Native), English (Advanced / TOEFL iBT C1)
+🎯 Computer Systems Engineer with +2 years of experience in React, TypeScript, Python and AWS.<br>
+💡 Passionate about clean code, performance optimization, and innovative solutions.<br>
+🗣️ Spanish (Native), English (Advanced / TOEFL iBT C1).
 
 ### 🚀 Professional Experience
 - **Junior Software Engineer** at Jimbo/Bondi (Dec 2023 - Dec 2025)
 - Retained as a core asset during a strategic company pivot to re-engineer software architecture.
-- Built 40% of web components using React, TypeScript, and Tailwind CSS
-- Optimized application performance by integrating TanStack Query, reducing data loading times by over 75%
-- Refactored legacy code using component decomposition, reducing file complexity by 60%
-- Resolved production issues, including CORS and authentication errors, by leveraging AWS CloudWatch logs
+- Built 40% of web components using React, TypeScript, and Tailwind CSS.
+- Optimized application performance by integrating TanStack Query, reducing data loading times by over 75%.
+- Refactored legacy code using component decomposition, reducing file complexity by 60%.
+- Resolved production issues, including CORS and authentication errors, by leveraging AWS CloudWatch logs.
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, TypeScript, Tailwind CSS, TanStack Query
-- **Backend:** Python, AWS (Lambda, CloudWatch, API Gateway)
-- **Other:** Git, GitHub, MySQL, REST APIs, Third-party API integrations, CI/CD, Linux
+- **Frontend:** React, TypeScript, Tailwind CSS, TanStack Query.
+- **Backend:** Python, AWS (Lambda, CloudWatch, API Gateway).
+- **Other:** Git, GitHub, MySQL, REST APIs, Third-party API integrations, CI/CD, Linux.
 
 ### 🌟 Featured Projects
-- **Agromatik Cloud** - IoT middleware with Python Scripting, Linux, SSH, REST API 
-- **2D Donkey Kong Recreation** - Python game with OOP design patterns
-- **Corporate Services Network** - PHP/MySQL web application with WordPress CMS
+- **Agromatik Cloud** - IoT middleware with Python Scripting, Linux, SSH, REST API.
+- **2D Donkey Kong Recreation** - Python game with OOP design patterns.
+- **Corporate Services Network** - PHP/MySQL web application with WordPress CMS.
  
 ### Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='30'/> 
