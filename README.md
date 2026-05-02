@@ -2,23 +2,30 @@
 
 ## Computer Systems Engineering Student | React Developer | AWS Enthusiast 
 
-I'm a proactive and analytical developer passionate about creating innovative solutions that enhance user experiences and solve real-world problems. Currently in my final semester of Computer Systems Engineering, with 1+ years of professional experience building scalable web applications.
+I'm a proactive and analytical Computer Systems Engineer with +2 years of experience in React, TypeScript, Python and AWS, passionate about creating innovative solutions that enhance user experiences and solve real-world problems. Proven track
+record of architecting scalable platforms, including a strategic transition from chatbot automation to clinical diagnostic
+systems startup for educational institutes. Effective at leveraging system architecture for project scoping and
+troubleshooting production issues to deliver high-impact, reliable software.
 
-🎯 Final semester student with 1+ years of professional React/TypeScript experience  
-💡 Passionate about clean code, performance optimization, and innovative solutions  
+🎯 Computer Systems Engineer with +2 years of experience in React, TypeScript, Python and AWS. 
+💡 Passionate about clean code, performance optimization, and innovative solutions.
+🗣️ Spanish (Native), English (Advanced / TOEFL iBT C1)
 
 ### 🚀 Professional Experience
-- **Junior Front End Engineer** at Jimbo (Dec 2023 - Jul 2025)
+- **Junior Software Engineer** at Jimbo/Bondi (Dec 2023 - Dec 2025)
+- Retained as a core asset during a strategic company pivot to re-engineer software architecture.
 - Built 40% of web components using React, TypeScript, and Tailwind CSS
-- Reduced code complexity by 70% through strategic refactoring
-- Improved loading times by 70% with TanStack Query optimization
+- Optimized application performance by integrating TanStack Query, reducing data loading times by over 75%
+- Refactored legacy code using component decomposition, reducing file complexity by 60%
+- Resolved production issues, including CORS and authentication errors, by leveraging AWS CloudWatch logs
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, TypeScript, Tailwind CSS, TanStack Query
 - **Backend:** Python, AWS (Lambda, CloudWatch, API Gateway)
-- **Other:** Git, MySQL, REST APIs, PayPal/Google Meet integrations
+- **Other:** Git, GitHub, MySQL, REST APIs, Third-party API integrations, CI/CD, Linux
 
 ### 🌟 Featured Projects
+- **Agromatik Cloud** - IoT middleware with Python Scripting, Linux, SSH, REST API 
 - **2D Donkey Kong Recreation** - Python game with OOP design patterns
 - **Corporate Services Network** - PHP/MySQL web application with WordPress CMS
  
