@@ -1,6 +1,6 @@
 ### Hi there, i'm Emmanuel (Patrick) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-## Computer Systems Engineering Student | React Developer | AWS Enthusiast 
+## Computer Systems Engineer 
 
 I'm a proactive and analytical Computer Systems Engineer with +2 years of experience in React, TypeScript, Python and AWS, passionate about creating innovative solutions that enhance user experiences and solve real-world problems. Proven track
 record of working on scalable platforms, including a strategic transition from chatbot automation to mental health system startup for educational institutes. Effective at leveraging system architecture for project scoping and troubleshooting production issues to deliver high-impact, reliable software.
